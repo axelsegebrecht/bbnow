@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /performance-order-complete.html
+Disallow: /performance-plus-order-complete.html
+Disallow: /dedicated-performance-order-complete.html
+
+SITEMAP: https://www.bebravernow.com/sitemap.xml
