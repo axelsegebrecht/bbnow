@@ -51,8 +51,6 @@
     "sitemapSwitcher": "on",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
-    "publishType": "local",
-    "publishPath": "@PROJECT_PATH@_public",
     "gdpr": "By continiung you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
   },
   "pages": {
